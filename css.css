@@ -1,0 +1,51 @@
+
+    body {
+      font-family:Comic Sans MS;
+      background-color: #f5f7fa;
+      margin: 0;
+      color: #333;
+    }
+    header {
+      background-color: #004466;
+      color: white;
+      padding: 10px 0px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    td {
+      padding: 20px;
+      font-weight: bold;
+    }
+
+     section {
+      margin: 30px ;
+    }
+   
+    fieldset {
+      padding: 20px;
+      margin: 20px;
+      border: 1px solid #004466;
+      border-radius: 8px;
+      background-color: #fffef5;
+    }
+    legend {
+      font-size: 20px;
+      color: #004466;
+      font-weight:bolder;
+      padding: 0 10px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    footer {
+      text-align: center;
+      padding: 5px;
+      background-color: #004466;
+      color: white;
+      margin-top: 30px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
